@@ -1,0 +1,63 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 66,
+  "boxShadow": "none",
+  "defaultOptionValue": "1",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "jewwwjwv6b",
+  "label": "Select tone",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 26,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 13,
+  "mobileTopRow": 20,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "label": "Based on the job description",
+      "value": "1"
+    },
+    {
+      "label": "Very formal",
+      "value": "2"
+    },
+    {
+      "label": "Professional",
+      "value": "3"
+    },
+    {
+      "label": "Casual",
+      "value": "4"
+    }
+  ],
+  "parentColumnSpace": 22.796875,
+  "parentId": "6ec8g2z1r7",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 57,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "dczw59avgh",
+  "widgetName": "SelectToneRadio"
+}

@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 10,
+  "bottomRow": 33,
   "boxShadow": "none",
   "defaultText": "",
   "dynamicBindingPathList": [
@@ -14,7 +14,7 @@
       "key": "borderRadius"
     }
   ],
-  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "inputType": "MULTI_LINE_TEXT",
@@ -38,8 +38,6 @@
   "mobileRightColumn": 3,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "originalBottomRow": 12,
-  "originalTopRow": 0,
   "parentColumnSpace": 22.796875,
   "parentId": "6ec8g2z1r7",
   "parentRowSpace": 10,
@@ -49,9 +47,9 @@
   "rightColumn": 64,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
-  "topRow": 0,
+  "topRow": 4,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "uz4ki9b963",
-  "widgetName": "Input1"
+  "widgetName": "JobDescriptionInput"
 }

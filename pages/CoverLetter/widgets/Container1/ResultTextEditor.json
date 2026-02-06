@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 30,
+  "bottomRow": 116,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "defaultText": "This is the initial <b>content</b> of the editor",
   "dynamicBindingPathList": [
@@ -35,15 +35,17 @@
   "mobileRightColumn": 6,
   "mobileTopRow": 10,
   "needsErrorInfo": false,
+  "originalBottomRow": 51,
+  "originalTopRow": 31,
   "parentColumnSpace": 22.796875,
   "parentId": "6ec8g2z1r7",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 64,
-  "topRow": 10,
+  "topRow": 66,
   "type": "RICH_TEXT_EDITOR_WIDGET",
   "version": 1,
   "widgetId": "9uhzxa2i6h",
-  "widgetName": "RichTextEditor1"
+  "widgetName": "ResultTextEditor"
 }
